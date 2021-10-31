@@ -1,0 +1,25 @@
+html {
+  // colors
+  --disabled-color: hsl(166, 11%, 76%);
+  --theme-color: #aa00ff;
+  --teal-color: #1de9b6;
+  --grey: #eeeeee;
+  --white-color: #fff;
+  --pink-color: #ff4081;
+
+  // typography
+  --theme-font: 'SF Pro Text';
+
+  --normal-font-color: #212121;
+  --small-font-size: 14px;
+  --normal-font-size: 16px;
+  --large-font-size: 20px;
+  --xlarge-font-size: 24px;
+  --xxlarge-font-size: 40px;
+
+  --normal-font-weight: 400;
+  --bold-font-weight: 600;
+
+  // border
+  --border-grey: 2px solid var(--grey);
+}
